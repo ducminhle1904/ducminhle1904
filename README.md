@@ -8,12 +8,12 @@
 
 <hr />
 <h3> 👨🏻•💻 About Me </h3>
-- Hi, I'm Duc, a Front End web developer. 
-- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-- I take great care in the experience, architecture, and code quality of the things I build.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science at Ton Duc Thang University.
-- ✍️ &nbsp; Learning ReactJs and NodeJs.
+- Hi, I'm Duc, a Front End web developer. <br/>
+- My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. <br/>
+- I take great care in the experience, architecture, and code quality of the things I build. <br/>
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.<br/>
+- 🎓 &nbsp; Studying Computer Science at Ton Duc Thang University.<br/>
+- ✍️ &nbsp; Learning ReactJs and NodeJs.<br/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
